@@ -1,4 +1,4 @@
-Abandonen project of simple tool for navigating filesystem
+Abandoned project of simple tool for navigating filesystem
 
 Does not work
 
